@@ -4,4 +4,5 @@
 2. Install CLIs and GUIs
     1. [iTerm2](./iTerm2/)
     2. [vim](./vim/)
+    3. [Vivaldi](./Vivaldi/)
 3. Tweak
