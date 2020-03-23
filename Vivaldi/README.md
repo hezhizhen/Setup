@@ -5,7 +5,7 @@
 ## Install
 
 ```sh
-bash cask install vivaldi
+brew cask install vivaldi
 ```
 
 ## Config
