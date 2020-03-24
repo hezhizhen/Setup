@@ -29,6 +29,8 @@ brew cask install vivaldi
 ### 标签
 
 * ✖️ 显示标签栏
+* ✅ 显示标签循环
+    * ✅ 列表显示标签循环
 * 标签静音：仅播放当前标签的音频
 
 ### 面板
@@ -56,6 +58,7 @@ brew cask install vivaldi
 * Cmd+E: 打开快捷命令
 * Cmd+L: 聚焦地址栏
 * Cmd+Option+N: 打开笔记面板
+* Ctrl+Tab: 循环标签
 
 ## Problems
 
