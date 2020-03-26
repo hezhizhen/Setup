@@ -53,6 +53,12 @@ brew cask install vivaldi
 
 登陆 Vivaldi 的账号密码，同步全部数据
 
+### 实验性特性
+
+打开 `vivaldi://experiments`
+
+* ✅ Menu entries for installing Progressive Web Apps.
+
 ## Shortcut
 
 * Cmd+E: 打开快捷命令
