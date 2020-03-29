@@ -407,6 +407,35 @@ TODO: 按需添加
 
 * [x] 启用摇杆手势（按住鼠标右键再单击左键，可历史后退；按住鼠标左键再单击右键，可历史前进）
 
+### 搜索
+
+#### 搜索
+
+##### 搜索框显示
+
+* 禁用
+
+##### 搜索选项
+
+* [x] 在地址框中直接搜索
+* [x] 在快速拨号中显示搜索框
+* [ ] 记住最后选择的搜索引擎
+* [ ] 后台搜索所选内容
+
+##### 启用搜索建议
+
+* [x] 在地址栏
+    * [ ] 仅当使用搜索引擎简称时
+* [ ] 在搜索栏
+
+##### 搜索引擎
+
+* StartPage（手动添加）
+    * 名称：`StartPage`
+    * 简称：`s`
+    * URL: `https://www.startpage.com/rvd/search?query=%s&language=auto`
+    * 建议 URL: `https://www.startpage.com/cgi-bin/csuggest?query=%s&limit=10&lang=english&format=json`
+
 ### 隐私
 
 * 保存浏览记录：仅此会话
