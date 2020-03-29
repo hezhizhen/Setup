@@ -581,11 +581,18 @@ TODO: 按需添加
 
 默认值
 
-### 实验性特性
+### 网络
 
-打开 `vivaldi://experiments`
+### 其他设置
 
-* ✅ Menu entries for installing Progressive Web Apps.
+#### `vivaldi://experiments`
+
+* [x] Menu entries for installing Progressive Web Apps.
+* [x] Use new spatial navigation
+* [x] User Profile management
+* [x] Razer Chroma support
+
+#### `vivaldi://flags`
 
 ## Shortcut
 
