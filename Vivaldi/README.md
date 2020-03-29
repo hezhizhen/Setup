@@ -438,9 +438,58 @@ TODO: 按需添加
 
 ### 隐私
 
-* 保存浏览记录：仅此会话
-* Blocking Level: Block Trackers and Ads
-* ✖️ 保存网页密码（使用 1Password 就好啦）
+#### 隐私
+
+##### 第三方服务
+
+* [x] Google 的网络钓鱼和恶意软件防护
+* [x] 使用 Google DNS 服务以帮助减少导航错误
+* [x] 借助谷歌服务自动填表
+
+##### 搜索
+
+* [x] 在地址框中直接搜索
+* [x] Suggestions in Address Field
+* [ ] Suggestions in Search Field
+
+##### 请勿跟踪
+
+* [x] 要求网站不要跟踪我
+* [x] 阻止侵扰性站点上的广告
+* [x] 发送 IP 以获得最佳 WebRTC 性能
+
+##### 显示输入历史
+
+* [x] 在地址框
+* [x] 在搜索框
+
+##### 保存浏览记录
+
+* 仅此会话
+
+##### 隐私窗口
+
+* [x] 显示入门介绍
+
+#### TRACKER AND AD BLOCKING
+
+##### Blocking Level
+
+* Block Trackers and Ads
+
+#### 密码
+
+* [ ] 保存网页密码（使用 1Password 就好啦）
+
+#### COOKIE
+
+##### 接受 Cookies
+
+* 全部
+
+##### 第三方 Cookies
+
+* [ ] 屏蔽第三方 Cookie
 
 ### 同步
 
