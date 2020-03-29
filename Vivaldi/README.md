@@ -90,7 +90,13 @@ brew cask install vivaldi
 
 ### 主题
 
-* 主题日程：使用操作系统主题
+#### 主题
+
+* Vivaldi
+
+#### 主题日程
+
+* 使用操作系统主题
     * 亮色主题：Vivaldi
     * 暗色主题：Dark
 
